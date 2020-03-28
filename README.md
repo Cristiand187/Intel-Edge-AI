@@ -1,4 +1,4 @@
-*Intel® Edge AI Scholarship Program*
+# *Intel® Edge AI Scholarship Program*
 
 Join the community
 We’ve created a custom Slack workspace for your Intel® Edge AI Foundation Course classmates and you.
